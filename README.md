@@ -8,7 +8,7 @@
 ## 🔥 Open Source Contributions
 
 * Contributing to **Jenkins email-ext plugin**
-* ✅ 2 Pull Requests merged
+* 3 Pull Requests merged
 * 🛠 Worked on SMTP logging improvements, validation, and testing
 * 💬 Actively participated in code reviews and community discussions
 
